@@ -62,7 +62,7 @@ MyAwesomeGame/
 ├── _deps/                        ← Includes + libs
 │   ├── raylib/
 │   	└── include/
-│		  └── lib/
+│	└── lib/
 ```
 
 ---

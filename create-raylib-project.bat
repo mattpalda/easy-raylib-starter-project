@@ -6,8 +6,8 @@ if "%~1"=="" (
     exit /b 1
 )
 
-set "TEMPLATE_DIR=%~dp0RaylibTemplate"
-set "OLD_NAME=RaylibTemplateProject"
+set "TEMPLATE_DIR=%~dp0EasyRaylibSetup"
+set "OLD_NAME=EasyRaylibSetup"
 set "NEW_NAME=%~1"
 set "DEST_DIR=%~dp0%NEW_NAME%"
 
